@@ -1,5 +1,8 @@
-## Hi there 👋
-
+ # Hi there 👋
+- I'm a software engineering student at the International Institute of Technology of Sfax, Tunisia.
+- My favorite movie is Project Almanac and my favorite TV Show is Mr.Robot.
+- I'm interested in Web development 🌐, AI/ML 🤖, Cloud ☁️ and IoT 🛜.
+- I have a Siamese cat named Bechmat 🐈.
 <!--
 **Selcukease/Selcukease** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
